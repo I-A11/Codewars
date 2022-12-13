@@ -1,6 +1,6 @@
 //CodeWare link for the kyu:
 
-// https://www.codewars.com/kata/542c0f198e077084c0000c2e/solutions/javascript
+// https://www.codewars.com/kata/563f037412e5ada593000114/javascript
 
 //Solution
 
