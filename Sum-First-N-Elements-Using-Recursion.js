@@ -1,4 +1,4 @@
-//Sum First N Elements Using Recursion
+//Multiply all elements in the array using loops
 
 const multiplyAll = (arr) => {
   let product = 1;
