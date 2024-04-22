@@ -9,7 +9,7 @@
 
 //Solution
 
-const colourAssociation = (array) => {
+const colorAssociation = (array) => {
   let result = [];
   array.forEach((entry) => {
     let obj = {};
@@ -17,4 +17,10 @@ const colourAssociation = (array) => {
     result.push(obj);
   });
   return result;
+};
+
+//Another solution
+
+const colorFormation = (array) => {
+  return array.map(([key, value]) => ({ [key]: value }));
 };
